@@ -1,2 +1,2 @@
 # odin-recipes
- this is the food recipe project
+ this is the first food recipe project by Sanjay
